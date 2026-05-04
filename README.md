@@ -19,12 +19,11 @@
 
   <h2>🛠️Tech & Tools</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,docker,supabase,git,postman,c,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,js,html,css,tailwind,docker,supabase,git,postman)](https://skillicons.dev)
 
   ---
 
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=lennycaseidev&theme=tokyonight&hide_border=true" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennycaseidev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
   </p>
 
