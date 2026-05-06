@@ -19,7 +19,7 @@
 
   <h2>🛠️Tech & Tools</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,js,html,css,tailwind,docker,supabase,git,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,js,ts,html,css,tailwind,docker,supabase,git,postman)](https://skillicons.dev)
 
   ---
 
